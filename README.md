@@ -10,7 +10,7 @@ Visual Studio
 Kurulum
 Repoyu bilgisayarınıza klonlayın.
 Visual Studio'yu açın.
-Proje dosyasını açın: ProjeAdi.sln.
+Proje dosyasını açın: MyFinalProject.sln.
 Projeyi derleyin ve çalıştırın.
 Kullanılan Teknolojiler
 C#
